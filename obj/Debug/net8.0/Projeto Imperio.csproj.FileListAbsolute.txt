@@ -140,3 +140,4 @@ C:\Temp\Projeto Imperio\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security
 C:\Temp\Projeto Imperio\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Temp\Projeto Imperio\obj\Debug\net8.0\Projeto Imperio.csproj.AssemblyReference.cache
 C:\Temp\Projeto Imperio\obj\Debug\net8.0\Projeto .96A0863A.Up2Date
+C:\Temp\Projeto Imperio\obj\Debug\net8.0\Projeto Imperio.sourcelink.json
